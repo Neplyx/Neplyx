@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Neplyx
 - 👀 I’m interested in coding, AI, web-design
 - 🌱 I’m currently learning Pytnon
-- 📫 How to reach me: Telegram-max.kudyk
-                       E-mail-kydukm1@gmail.com
+- 📫 How to reach me: Telegram - max.kudyk
+                       E-mail - kydukm1@gmail.com
        
 
 <!---
